@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "RotinaIESB",
+    "slug": "rotina-iesb",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#4f46e5"
+    },
+    "android": {
+      "package": "com.exemplo.rotinaiesb"
+    },
+    "ios": {
+      "bundleIdentifier": "com.exemplo.rotinaiesb"
+    }
+  }
+}
